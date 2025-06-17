@@ -1,0 +1,15 @@
+# Ignore all compiled binaries and object files for suckless tools
+
+# Ignore binaries
+dwm/dwm
+st/st
+slstatus/slstatus
+dmenu/dmenu
+
+# Ignore object files
+*.o
+
+# Ignore other build artifacts
+*.swp
+*~
+
